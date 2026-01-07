@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+venv310/
+env/
+.venv/
+
+# Node
+node_modules/
+
+# Environment & secrets
+.env
+local.env
+pyvenv.cfg
+
+# Data (optional)
+data/
+*.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
